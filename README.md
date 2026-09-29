@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/banner.svg" alt="Awesome Comunidad de Madrid">
+  <img src="docs/images/banner.svg" alt="Awesome Comunidad de Madrid">
   <br><br>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
   <br><br>
@@ -20,7 +20,7 @@
 
 <!--lint enable awesome-list-item-->
 
-**Leyenda:** Cada entrada muestra: ![Stars](https://img.shields.io/badge/%E2%AD%90-grey?style=flat-square) estrellas, ![Last Commit](https://img.shields.io/badge/commit-grey?style=flat-square) actividad, ![Language](https://img.shields.io/badge/lang-grey?style=flat-square) lenguaje, ![License](https://img.shields.io/badge/license-grey?style=flat-square) licencia, [![CAM](https://img.shields.io/badge/CAM-C60B1E?style=flat-square)](https://www.comunidad.madrid/) etiqueta de institución/ubicación, ([Demo](https://github.com/GeiserX/awesome-comunidad-de-madrid)) demo en vivo. Todas las insignias son clicables y se actualizan automáticamente. Las etiquetas enlazan a las páginas oficiales de cada institución.
+> Las insignias muestran: ⭐ estrellas, último commit, lenguaje principal y licencia. Las etiquetas de color enlazan a la página oficial de cada institución o servicio. Los enlaces **Demo** apuntan a instancias públicas.
 
 ## Administración y Gobierno
 
@@ -114,7 +114,7 @@ For the badge (grande):
 
 ## Contribuir
 
-Las contribuciones bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
+Las contribuciones son bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
 
 ## Nota
 
