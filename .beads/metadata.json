@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "madrid",
+  "project_id": "33c309a3-df56-483e-b80d-74f5c56cad04"
+}
